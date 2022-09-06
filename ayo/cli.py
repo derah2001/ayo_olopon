@@ -67,11 +67,8 @@ def setup(game, pim, pits, stones, config=None):
 
     if click.confirm('\n\n{} vs {}. \n Start Game'.format(player_one.name.upper(), player_two.name.upper()), abort=True):
         game.move(player_one)
-<<<<<<< HEAD
 
 
 if __name__ == '__main__':
     setup()
 
-=======
->>>>>>> 4ab962402441b0086b4a8734b85677a2b3691e42
