@@ -71,3 +71,4 @@ def setup(game, pim, pits, stones, config=None):
 
 if __name__ == '__main__':
     setup()
+
